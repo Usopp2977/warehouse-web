@@ -1,0 +1,19 @@
+{
+  "name": "倉管盤點",
+  "short_name": "倉管盤點",
+  "description": "倉庫零件位置與數量查找、核對、盤點",
+  "id": "/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "zh-TW",
+  "background_color": "#f3f5f4",
+  "theme_color": "#c2410c",
+  "categories": ["business", "productivity"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
